@@ -1,6 +1,11 @@
 # learn-fastapi
 
+## 개요
+- python 3.9.x
+- fastapi 0.110.x
+
 ## 기본 기능
+
 - 데이터 파싱
 - 데이터 검증: 타입, enum 등
   - [pydantic](https://pydantic-docs.helpmanual.io/)
